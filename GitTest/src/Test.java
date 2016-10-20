@@ -6,6 +6,6 @@ public class Test {
 	JOptionPane.showMessageDialog(null, "it worked :0 !!");	
 		
 		System.out.println("hej");
-		
+		asdasd
 	}
 }
